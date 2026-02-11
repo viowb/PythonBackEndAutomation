@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66749566-d5ee-4580-99e8-da59ffd76319" name="Changes" comment="Python_BE 2nd Commit">
-      <change afterPath="$PROJECT_DIR$/Demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funtions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListOperationsvaluesdatatype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stringdatatype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Whileloop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="66749566-d5ee-4580-99e8-da59ffd76319" name="Changes" comment="Python_BE 3rd Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,7 +219,7 @@
       <updated>1769891060917</updated>
       <workItem from="1769891061934" duration="15532000" />
       <workItem from="1770483505980" duration="1279000" />
-      <workItem from="1770492345352" duration="28923000" />
+      <workItem from="1770492345352" duration="29251000" />
     </task>
     <task id="LOCAL-00001" summary="Python_BE 1st Commit">
       <option name="closed" value="true" />
@@ -263,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770720115469</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Python_BE 3rd Commit">
+      <option name="closed" value="true" />
+      <created>1770772782101</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770772782101</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +273,11 @@
         <entry key="Branch">
           <value>
             <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="master" />
@@ -310,7 +313,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python_BE 1st Commit" />
     <MESSAGE value="Python_BE 2nd Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python_BE 2nd Commit" />
+    <MESSAGE value="Python_BE 3rd Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python_BE 3rd Commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonBackEndAutomation$Python_Console.coverage" NAME="Python Console Coverage Results" MODIFIED="1770492400349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
