@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66749566-d5ee-4580-99e8-da59ffd76319" name="Changes" comment="Python_BE 3rd Commit">
-      <change afterPath="$PROJECT_DIR$/pythonBasics/ObjectOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonBasics/UpdatedOops.py" afterDir="false" />
+    <list default="true" id="66749566-d5ee-4580-99e8-da59ffd76319" name="Changes" comment="Python_BE 2nd Commit">
+      <change afterPath="$PROJECT_DIR$/Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funtions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListOperationsvaluesdatatype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stringdatatype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Whileloop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics/Demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionarydatatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics/Dictionarydatatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Funtions.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics/Funtions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListOperationsvaluesdatatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics/ListOperationsvaluesdatatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics/updated Loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectOP.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics/PythonDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stringdatatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics/Stringdatatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tupledatatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics/Tupledatatype.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Whileloop.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics/Whileloop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBasics/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +60,6 @@
     "Python.Python Console.executor": "Run",
     "Python.PythonDemo.executor": "Run",
     "Python.Tupledatatype.executor": "Run",
-    "Python.UpdatedOops.executor": "Run",
     "Python.Whileloop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -86,11 +80,8 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\viowb\PycharmProjects\PythonBackEndAutomation" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\viowb\PycharmProjects\PythonBackEndAutomation\pythonBasics" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.UpdatedOops">
+  <component name="RunManager" selected="Python.ObjectOP">
     <configuration name="Dictionarydatatype" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBackEndAutomation" />
       <option name="ENV_FILES" value="" />
@@ -106,7 +97,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\viowb\PycharmProjects\PythonBackEndAutomation\pythonBasics\Dictionarydatatype.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionarydatatype.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +121,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\viowb\PycharmProjects\PythonBackEndAutomation\pythonBasics\Funtions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funtions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +169,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\viowb\PycharmProjects\PythonBackEndAutomation\pythonBasics\ObjectOP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjectOP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="UpdatedOops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Whileloop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBackEndAutomation" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,13 +187,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\viowb\PycharmProjects\PythonBackEndAutomation\pythonBasics\UpdatedOops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Whileloop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.UpdatedOops" />
         <item itemvalue="Python.ObjectOP" />
         <item itemvalue="Python.Dictionarydatatype" />
         <item itemvalue="Python.Funtions" />
         <item itemvalue="Python.Loops" />
+        <item itemvalue="Python.Whileloop" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +229,7 @@
       <updated>1769891060917</updated>
       <workItem from="1769891061934" duration="15532000" />
       <workItem from="1770483505980" duration="1279000" />
-      <workItem from="1770492345352" duration="39779000" />
+      <workItem from="1770492345352" duration="28923000" />
     </task>
     <task id="LOCAL-00001" summary="Python_BE 1st Commit">
       <option name="closed" value="true" />
@@ -272,31 +263,7 @@
       <option name="project" value="LOCAL" />
       <updated>1770720115469</updated>
     </task>
-    <task id="LOCAL-00005" summary="Python_BE 3rd Commit">
-      <option name="closed" value="true" />
-      <created>1770772782101</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1770772782101</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Python_BE 3rd Commit">
-      <option name="closed" value="true" />
-      <created>1770772901037</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1770772901037</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Python_BE 3rd Commit">
-      <option name="closed" value="true" />
-      <created>1770809980688</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1770809980688</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,11 +275,6 @@
         <entry key="Branch">
           <value>
             <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="origin/master" />
-                </option>
-              </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="master" />
@@ -348,17 +310,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python_BE 1st Commit" />
     <MESSAGE value="Python_BE 2nd Commit" />
-    <MESSAGE value="Python_BE 3rd Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python_BE 3rd Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python_BE 2nd Commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonBackEndAutomation$Python_Console.coverage" NAME="Python Console Coverage Results" MODIFIED="1770492400349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/PythonBackEndAutomation$Tupledatatype.coverage" NAME="Tupledatatype Coverage Results" MODIFIED="1770493725909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBackEndAutomation$Funtions.coverage" NAME="Funtions Coverage Results" MODIFIED="1770770917771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBackEndAutomation$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1770741302842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
-    <SUITE FILE_PATH="coverage/PythonBackEndAutomation$UpdatedOops.coverage" NAME="UpdatedOops Coverage Results" MODIFIED="1770816407723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBackEndAutomation$PythonDemo.coverage" NAME="PythonDemo Coverage Results" MODIFIED="1770493760157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonBackEndAutomation$ObjectOP.coverage" NAME="ObjectOP Coverage Results" MODIFIED="1770815786860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonBackEndAutomation$ObjectOP.coverage" NAME="ObjectOP Coverage Results" MODIFIED="1770772483078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBackEndAutomation$Dictionarydatatype.coverage" NAME="Dictionarydatatype Coverage Results" MODIFIED="1770771186958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBackEndAutomation$Whileloop.coverage" NAME="Whileloop Coverage Results" MODIFIED="1770741134011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
