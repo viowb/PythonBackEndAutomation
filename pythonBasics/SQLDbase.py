@@ -36,9 +36,16 @@ query = "update customerInfo set Location = %s where CourseName = %s"
 data = ("Dubai", "selenium")
 cursor.execute(query, data)
 #commit
+
+query = "DELETE FROM CustomerInfo WHERE CourseName = %s"
+data = ("Protractor",)
+
+cursor.execute(query, data)
+
+#commit
 conn.commit()
 
-#verify data on Mysql is updated as expected
+#verify data on Mysql is updated/DELETED as expected
 
 
 conn.close()
