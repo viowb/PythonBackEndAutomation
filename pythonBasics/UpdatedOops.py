@@ -17,7 +17,7 @@ class Calculator:
     def Summation(self):
         return self.firstNumber + self.secondNumber + Calculator.num
 
-def __
+
 
 
 # -----------------------------

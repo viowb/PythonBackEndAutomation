@@ -14,3 +14,10 @@ dict["Firstname"] = "violet"
 dict["lastname"] = "Bank"
 dict["gender"] = "female"
 print(dict)
+
+dict = {1:"string", "name": "violet", "age":33, 5 : 98}
+print(dict)
+print(dict["name"])
+print(dict["age"])
+print(dict[5])
+print(dict[1])
